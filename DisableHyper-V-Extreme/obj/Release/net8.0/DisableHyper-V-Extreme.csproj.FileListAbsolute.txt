@@ -1,0 +1,14 @@
+C:\Users\axi\source\repos\DisableHyper-V-Extreme\DisableHyper-V-Extreme\bin\Release\net8.0\DisableHyper-V-Extreme.exe
+C:\Users\axi\source\repos\DisableHyper-V-Extreme\DisableHyper-V-Extreme\bin\Release\net8.0\DisableHyper-V-Extreme.deps.json
+C:\Users\axi\source\repos\DisableHyper-V-Extreme\DisableHyper-V-Extreme\bin\Release\net8.0\DisableHyper-V-Extreme.runtimeconfig.json
+C:\Users\axi\source\repos\DisableHyper-V-Extreme\DisableHyper-V-Extreme\bin\Release\net8.0\DisableHyper-V-Extreme.dll
+C:\Users\axi\source\repos\DisableHyper-V-Extreme\DisableHyper-V-Extreme\bin\Release\net8.0\DisableHyper-V-Extreme.pdb
+C:\Users\axi\source\repos\DisableHyper-V-Extreme\DisableHyper-V-Extreme\obj\Release\net8.0\DisableHyper-V-Extreme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axi\source\repos\DisableHyper-V-Extreme\DisableHyper-V-Extreme\obj\Release\net8.0\DisableHyper-V-Extreme.AssemblyInfoInputs.cache
+C:\Users\axi\source\repos\DisableHyper-V-Extreme\DisableHyper-V-Extreme\obj\Release\net8.0\DisableHyper-V-Extreme.AssemblyInfo.cs
+C:\Users\axi\source\repos\DisableHyper-V-Extreme\DisableHyper-V-Extreme\obj\Release\net8.0\DisableHyper-V-Extreme.csproj.CoreCompileInputs.cache
+C:\Users\axi\source\repos\DisableHyper-V-Extreme\DisableHyper-V-Extreme\obj\Release\net8.0\DisableHyper-V-Extreme.dll
+C:\Users\axi\source\repos\DisableHyper-V-Extreme\DisableHyper-V-Extreme\obj\Release\net8.0\refint\DisableHyper-V-Extreme.dll
+C:\Users\axi\source\repos\DisableHyper-V-Extreme\DisableHyper-V-Extreme\obj\Release\net8.0\DisableHyper-V-Extreme.pdb
+C:\Users\axi\source\repos\DisableHyper-V-Extreme\DisableHyper-V-Extreme\obj\Release\net8.0\DisableHyper-V-Extreme.genruntimeconfig.cache
+C:\Users\axi\source\repos\DisableHyper-V-Extreme\DisableHyper-V-Extreme\obj\Release\net8.0\ref\DisableHyper-V-Extreme.dll

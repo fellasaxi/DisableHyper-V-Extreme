@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\axi\\source\\repos\\DisableHyper-V-Extreme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87CF2608-90CC-4B8C-A177-34551E661019}|DisableHyper-V-Extreme\\DisableHyper-V-Extreme.csproj|c:\\users\\axi\\source\\repos\\disablehyper-v-extreme\\disablehyper-v-extreme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CF2608-90CC-4B8C-A177-34551E661019}|DisableHyper-V-Extreme\\DisableHyper-V-Extreme.csproj|solutionrelative:disablehyper-v-extreme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CF2608-90CC-4B8C-A177-34551E661019}|DisableHyper-V-Extreme\\DisableHyper-V-Extreme.csproj|c:\\users\\axi\\source\\repos\\disablehyper-v-extreme\\disablehyper-v-extreme\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{87CF2608-90CC-4B8C-A177-34551E661019}|DisableHyper-V-Extreme\\DisableHyper-V-Extreme.csproj|solutionrelative:disablehyper-v-extreme\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\axi\\source\\repos\\DisableHyper-V-Extreme\\DisableHyper-V-Extreme\\app.manifest",
+              "RelativeDocumentMoniker": "DisableHyper-V-Extreme\\app.manifest",
+              "ToolTip": "C:\\Users\\axi\\source\\repos\\DisableHyper-V-Extreme\\DisableHyper-V-Extreme\\app.manifest",
+              "RelativeToolTip": "DisableHyper-V-Extreme\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2026-04-04T13:44:44.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\axi\\source\\repos\\DisableHyper-V-Extreme\\DisableHyper-V-Extreme\\Program.cs",
+              "RelativeDocumentMoniker": "DisableHyper-V-Extreme\\Program.cs",
+              "ToolTip": "C:\\Users\\axi\\source\\repos\\DisableHyper-V-Extreme\\DisableHyper-V-Extreme\\Program.cs*",
+              "RelativeToolTip": "DisableHyper-V-Extreme\\Program.cs*",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowG8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T13:44:04.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

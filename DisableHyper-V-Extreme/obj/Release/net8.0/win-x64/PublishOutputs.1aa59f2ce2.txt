@@ -1,0 +1,2 @@
+C:\Users\axi\source\repos\DisableHyper-V-Extreme\DisableHyper-V-Extreme\bin\Release\net8.0\win-x64\publish\DisableHyper-V-Extreme.exe
+C:\Users\axi\source\repos\DisableHyper-V-Extreme\DisableHyper-V-Extreme\bin\Release\net8.0\win-x64\publish\DisableHyper-V-Extreme.pdb
